@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
+Template Name: BizPage
+Template URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
